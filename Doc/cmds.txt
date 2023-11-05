@@ -1,0 +1,2 @@
+1. npm init: to initialize node package
+2. git config --global core.autocrlf true: to resolve 'LF will be replaced by CRLF' error
