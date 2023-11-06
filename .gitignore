@@ -118,5 +118,6 @@ dist
 .pnp.*
 
 #notes file
-.Doc/cmds.txt
+Doc/cmds.txt
+
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
